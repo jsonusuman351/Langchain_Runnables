@@ -1,0 +1,15 @@
+Langchain Runnables Documentation
+
+This file contains sample content for testing the retrievalQAchain.py script.
+
+Sample Questions:
+1. What is Langchain?
+Langchain is a framework for developing applications powered by language models.
+
+2. What is a Runnable in Langchain?
+A Runnable is an abstraction for composable units of work in Langchain.
+
+3. How does RetrievalQAChain work?
+RetrievalQAChain retrieves relevant documents and answers questions using a language model.
+
+Feel free to add more content as needed for your tests.
